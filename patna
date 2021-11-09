@@ -1,8 +1,8 @@
 ---
+
 # Ancient History
 
-###### 1. What's the capital of india?
-
+###### 1. Where 
 - A: `Ranchi` and `undefined`
 - B: `Patna` and `ReferenceError`
 - C: `ReferenceError` and `21`
