@@ -2,11 +2,11 @@
 
 # Ancient History
 
-###### 1. Where 
-- A: `Ranchi` and `undefined`
-- B: `Patna` and `ReferenceError`
-- C: `ReferenceError` and `21`
-- D: `undefined` and `ReferenceError`
+###### 1. Where does Ashwasti Shravani lives in?
+- A: `Mangalore`
+- B: `Cuttack` 
+- C: `Hyderabad`
+- D: `Kanchipuram`
 
 <details><summary><b>Answer</b></summary>
 <p>
